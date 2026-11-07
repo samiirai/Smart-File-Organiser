@@ -1,0 +1,21 @@
+1. Required Installations & Setup
+
+we are using Windows API and C, 
+we need a standard Windows C development environment.
+
+Compiler: Install MinGW-w64 (which includes GCC for Windows). Ensure the bin folder is added to our system's Environment Variables (Path).
+
+GCC version: gcc (Rev8, Built by MSYS2 project) 15.2.0
+IDE: Install Visual Studio Code (VS Code).
+
+Extensions: Install the C/C++ Extension by Microsoft in VS Code.
+
+
+2. Need Improvisation
+--- File Integrity Checker ---
+1. Create new Manifest
+2. Verify files against Manifest
+Choice: 1
+Manifest created successfully.
+
+Here we should add third choice for user to exit
